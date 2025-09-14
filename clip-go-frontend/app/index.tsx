@@ -95,7 +95,7 @@ export default function Index() {
                 textAlign: "center",
               }}
             >
-              Save Short
+              Save
             </Text>
           </TouchableOpacity>
         </View>
